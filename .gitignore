@@ -9,6 +9,8 @@ dist/
 web-build/
 
 # Native
+/android/
+/ios/
 *.orig.*
 *.jks
 *.p8
@@ -33,3 +35,5 @@ yarn-error.*
 
 # typescript
 *.tsbuildinfo
+
+# @generated expo-cli sync-b5df6a44d8735348b729920a7406b633cfb74d4c
